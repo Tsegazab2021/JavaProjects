@@ -1,0 +1,2 @@
+module JaveExercise1 {
+}
