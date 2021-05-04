@@ -42,10 +42,10 @@ public class JavaFirstProg {
 				int div = 125 / 24;
 				int mod = 125 % 24; 
 				System.out.println(sum+"\n" + min +"\n" + multi +"\n" + div +"\n" + mod);
-//				System.out.println(min);
-//				System.out.println(multi);
-//				System.out.println(div);
-//				System.out.println(mod);
+				System.out.println(min);
+				System.out.println(multi);
+				System.out.println(div);
+				System.out.println(mod);
 				
 				//Write a Java program to compute the specified expressions and print the output. 
 				
@@ -61,16 +61,8 @@ public class JavaFirstProg {
 		        System.out.println("Area is = " + area);
 
 		        
-		        
+		      
 		}
 		        
-		}
-
-			
-			
-			
-			
-
-	}
 
 }
