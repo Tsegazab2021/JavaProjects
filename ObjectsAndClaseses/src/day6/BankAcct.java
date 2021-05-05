@@ -65,15 +65,7 @@ public class BankAcct {
 
 	}
 
-	public void deposit(double amount) {
-		double newBalance = balance + amount;
-		balance = newBalance;
-	}
 
-	public void withdrow(double amount) {
-		double newBalance = balance - amount;
-		balance = newBalance;
-	}
 
 	@Override
 	public String toString() {
